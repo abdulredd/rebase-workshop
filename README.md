@@ -1,5 +1,9 @@
 # Rebase Workshop
 
+first edit on b1
+second edit on b1
+third edit on b1
+
 CONTENTS OF THIS FILE
 ---------------------
 
